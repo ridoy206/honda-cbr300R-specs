@@ -1,0 +1,93 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.nav-bg-color{
+    background-color: #264653;
+}
+.login-button{
+    background-color: #E76F51;
+    color: white;
+    width: 91px;
+    height: 44px;
+    border: 0px solid;
+    border-radius: 5px;
+
+
+
+}
+/* poster section started */
+.poster-section{
+    padding-top: 100px;
+    padding-bottom: 90px;
+}
+.poster-bg-color{
+background-color:#264653; 
+}
+.poster-text{
+    font-weight: 300;
+    line-height: 24px;
+    font-size: 16px;
+
+}
+.btn-purchase{
+    width: 168px;
+    height: 44px;
+    border: 0px solid;
+    background-color: #E76F51;
+    border-radius: 5px;
+    color: white;
+}
+/* poster section ended */
+
+.bg-best-bike{
+    color:#E76F51;
+}
+img.bw{
+filter: grayscale();
+}
+/*////////
+ fetured part ended 
+ ///////*/
+
+
+ /* latest news */
+.read-more1{
+
+    width: 140px;
+    height: 48px;
+    border: 0px solid;
+    background-color: #E76F51;
+    border-radius: 5px;
+    color: white;
+   
+ }
+.read-more2{
+    width: 140px;
+    height: 48px;
+   
+ }
+ /* latest news ended */
+
+
+
+
+
+
+
+ /* happy clints part  */
+ .bg-clients{
+     color:#E76F51;
+ }
+ .star-color{
+     color: #E77C40;
+ }
+
+ /* FAQ part */
+ .ques-color{
+     color: #E76F51;
+ }
+
+ /* Footer Part */
+ .footer-bg{
+     background-color: #0B0D17;
+ }
